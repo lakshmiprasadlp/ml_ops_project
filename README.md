@@ -18,3 +18,7 @@ pip install -r requirements.txt
 ```
 python setup.py install
 ```
+# To install jupitre notbook   
+```
+Pip install ipykernel
+```
